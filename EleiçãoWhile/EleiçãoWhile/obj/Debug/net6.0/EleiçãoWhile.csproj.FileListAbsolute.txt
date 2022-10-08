@@ -1,0 +1,15 @@
+C:\Users\TEMP.LABFIES.000\Documents\GitHub\csharp\EleiçãoWhile\EleiçãoWhile\bin\Debug\net6.0\EleiçãoWhile.exe
+C:\Users\TEMP.LABFIES.000\Documents\GitHub\csharp\EleiçãoWhile\EleiçãoWhile\bin\Debug\net6.0\EleiçãoWhile.deps.json
+C:\Users\TEMP.LABFIES.000\Documents\GitHub\csharp\EleiçãoWhile\EleiçãoWhile\bin\Debug\net6.0\EleiçãoWhile.runtimeconfig.json
+C:\Users\TEMP.LABFIES.000\Documents\GitHub\csharp\EleiçãoWhile\EleiçãoWhile\bin\Debug\net6.0\EleiçãoWhile.dll
+C:\Users\TEMP.LABFIES.000\Documents\GitHub\csharp\EleiçãoWhile\EleiçãoWhile\bin\Debug\net6.0\EleiçãoWhile.pdb
+C:\Users\TEMP.LABFIES.000\Documents\GitHub\csharp\EleiçãoWhile\EleiçãoWhile\obj\Debug\net6.0\EleiçãoWhile.csproj.AssemblyReference.cache
+C:\Users\TEMP.LABFIES.000\Documents\GitHub\csharp\EleiçãoWhile\EleiçãoWhile\obj\Debug\net6.0\EleiçãoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TEMP.LABFIES.000\Documents\GitHub\csharp\EleiçãoWhile\EleiçãoWhile\obj\Debug\net6.0\EleiçãoWhile.AssemblyInfoInputs.cache
+C:\Users\TEMP.LABFIES.000\Documents\GitHub\csharp\EleiçãoWhile\EleiçãoWhile\obj\Debug\net6.0\EleiçãoWhile.AssemblyInfo.cs
+C:\Users\TEMP.LABFIES.000\Documents\GitHub\csharp\EleiçãoWhile\EleiçãoWhile\obj\Debug\net6.0\EleiçãoWhile.csproj.CoreCompileInputs.cache
+C:\Users\TEMP.LABFIES.000\Documents\GitHub\csharp\EleiçãoWhile\EleiçãoWhile\obj\Debug\net6.0\EleiçãoWhile.dll
+C:\Users\TEMP.LABFIES.000\Documents\GitHub\csharp\EleiçãoWhile\EleiçãoWhile\obj\Debug\net6.0\refint\EleiçãoWhile.dll
+C:\Users\TEMP.LABFIES.000\Documents\GitHub\csharp\EleiçãoWhile\EleiçãoWhile\obj\Debug\net6.0\EleiçãoWhile.pdb
+C:\Users\TEMP.LABFIES.000\Documents\GitHub\csharp\EleiçãoWhile\EleiçãoWhile\obj\Debug\net6.0\EleiçãoWhile.genruntimeconfig.cache
+C:\Users\TEMP.LABFIES.000\Documents\GitHub\csharp\EleiçãoWhile\EleiçãoWhile\obj\Debug\net6.0\ref\EleiçãoWhile.dll
