@@ -1,2 +1,2 @@
 # csharp
-rdtudo de implementação da linguagem c#
+estudo de implementação da linguagem c#
