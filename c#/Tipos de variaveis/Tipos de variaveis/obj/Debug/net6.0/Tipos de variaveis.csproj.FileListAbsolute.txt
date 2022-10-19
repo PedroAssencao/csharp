@@ -1,0 +1,15 @@
+C:\Users\manha.cetafest\Documents\GitHub\csharp\c#\Tipos de variaveis\Tipos de variaveis\bin\Debug\net6.0\Tipos de variaveis.exe
+C:\Users\manha.cetafest\Documents\GitHub\csharp\c#\Tipos de variaveis\Tipos de variaveis\bin\Debug\net6.0\Tipos de variaveis.deps.json
+C:\Users\manha.cetafest\Documents\GitHub\csharp\c#\Tipos de variaveis\Tipos de variaveis\bin\Debug\net6.0\Tipos de variaveis.runtimeconfig.json
+C:\Users\manha.cetafest\Documents\GitHub\csharp\c#\Tipos de variaveis\Tipos de variaveis\bin\Debug\net6.0\Tipos de variaveis.dll
+C:\Users\manha.cetafest\Documents\GitHub\csharp\c#\Tipos de variaveis\Tipos de variaveis\bin\Debug\net6.0\Tipos de variaveis.pdb
+C:\Users\manha.cetafest\Documents\GitHub\csharp\c#\Tipos de variaveis\Tipos de variaveis\obj\Debug\net6.0\Tipos de variaveis.csproj.AssemblyReference.cache
+C:\Users\manha.cetafest\Documents\GitHub\csharp\c#\Tipos de variaveis\Tipos de variaveis\obj\Debug\net6.0\Tipos de variaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manha.cetafest\Documents\GitHub\csharp\c#\Tipos de variaveis\Tipos de variaveis\obj\Debug\net6.0\Tipos de variaveis.AssemblyInfoInputs.cache
+C:\Users\manha.cetafest\Documents\GitHub\csharp\c#\Tipos de variaveis\Tipos de variaveis\obj\Debug\net6.0\Tipos de variaveis.AssemblyInfo.cs
+C:\Users\manha.cetafest\Documents\GitHub\csharp\c#\Tipos de variaveis\Tipos de variaveis\obj\Debug\net6.0\Tipos de variaveis.csproj.CoreCompileInputs.cache
+C:\Users\manha.cetafest\Documents\GitHub\csharp\c#\Tipos de variaveis\Tipos de variaveis\obj\Debug\net6.0\Tipos de variaveis.dll
+C:\Users\manha.cetafest\Documents\GitHub\csharp\c#\Tipos de variaveis\Tipos de variaveis\obj\Debug\net6.0\refint\Tipos de variaveis.dll
+C:\Users\manha.cetafest\Documents\GitHub\csharp\c#\Tipos de variaveis\Tipos de variaveis\obj\Debug\net6.0\Tipos de variaveis.pdb
+C:\Users\manha.cetafest\Documents\GitHub\csharp\c#\Tipos de variaveis\Tipos de variaveis\obj\Debug\net6.0\Tipos de variaveis.genruntimeconfig.cache
+C:\Users\manha.cetafest\Documents\GitHub\csharp\c#\Tipos de variaveis\Tipos de variaveis\obj\Debug\net6.0\ref\Tipos de variaveis.dll
