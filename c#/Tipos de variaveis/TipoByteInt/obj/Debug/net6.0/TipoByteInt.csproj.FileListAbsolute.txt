@@ -1,0 +1,15 @@
+C:\Users\manha.cetafest\Documents\GitHub\csharp\c#\Tipos de variaveis\TipoByteInt\bin\Debug\net6.0\TipoByteInt.exe
+C:\Users\manha.cetafest\Documents\GitHub\csharp\c#\Tipos de variaveis\TipoByteInt\bin\Debug\net6.0\TipoByteInt.deps.json
+C:\Users\manha.cetafest\Documents\GitHub\csharp\c#\Tipos de variaveis\TipoByteInt\bin\Debug\net6.0\TipoByteInt.runtimeconfig.json
+C:\Users\manha.cetafest\Documents\GitHub\csharp\c#\Tipos de variaveis\TipoByteInt\bin\Debug\net6.0\TipoByteInt.dll
+C:\Users\manha.cetafest\Documents\GitHub\csharp\c#\Tipos de variaveis\TipoByteInt\bin\Debug\net6.0\TipoByteInt.pdb
+C:\Users\manha.cetafest\Documents\GitHub\csharp\c#\Tipos de variaveis\TipoByteInt\obj\Debug\net6.0\TipoByteInt.csproj.AssemblyReference.cache
+C:\Users\manha.cetafest\Documents\GitHub\csharp\c#\Tipos de variaveis\TipoByteInt\obj\Debug\net6.0\TipoByteInt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manha.cetafest\Documents\GitHub\csharp\c#\Tipos de variaveis\TipoByteInt\obj\Debug\net6.0\TipoByteInt.AssemblyInfoInputs.cache
+C:\Users\manha.cetafest\Documents\GitHub\csharp\c#\Tipos de variaveis\TipoByteInt\obj\Debug\net6.0\TipoByteInt.AssemblyInfo.cs
+C:\Users\manha.cetafest\Documents\GitHub\csharp\c#\Tipos de variaveis\TipoByteInt\obj\Debug\net6.0\TipoByteInt.csproj.CoreCompileInputs.cache
+C:\Users\manha.cetafest\Documents\GitHub\csharp\c#\Tipos de variaveis\TipoByteInt\obj\Debug\net6.0\TipoByteInt.dll
+C:\Users\manha.cetafest\Documents\GitHub\csharp\c#\Tipos de variaveis\TipoByteInt\obj\Debug\net6.0\refint\TipoByteInt.dll
+C:\Users\manha.cetafest\Documents\GitHub\csharp\c#\Tipos de variaveis\TipoByteInt\obj\Debug\net6.0\TipoByteInt.pdb
+C:\Users\manha.cetafest\Documents\GitHub\csharp\c#\Tipos de variaveis\TipoByteInt\obj\Debug\net6.0\TipoByteInt.genruntimeconfig.cache
+C:\Users\manha.cetafest\Documents\GitHub\csharp\c#\Tipos de variaveis\TipoByteInt\obj\Debug\net6.0\ref\TipoByteInt.dll
